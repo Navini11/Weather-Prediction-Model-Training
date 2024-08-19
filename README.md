@@ -31,7 +31,7 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/yourusername/weather-prediction.git
+    git clone https://github.com/Navini11/weather-prediction.git
     ```
 
 2. Navigate to the project directory:
